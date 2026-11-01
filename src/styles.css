@@ -76,3 +76,5 @@ body{--primary-6:37,83,157;--primary-5:53,103,184;--primary-7:29,65,126}.arco-bt
 .workspace>.editor,.workspace>.preview-pane{min-height:0}
 .gallery-card{cursor:pointer}
 .gallery-card:focus-within{outline:2px solid #4778be;outline-offset:3px}
+/* Scale typography while reflowing the template across the printable width. */
+.pdf-page .resume-paper{width:100%}
