@@ -1,0 +1,13 @@
+node_modules
+dist
+*.local
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+/ui-preview.png
+/template-gallery.png
+/new-templates.png
+/custom-basics.png
